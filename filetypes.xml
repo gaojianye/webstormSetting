@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="tpl" type="HTML" />
       <mapping pattern=".config.php.example" type="PLAIN_TEXT" />
       <mapping ext="wpy___jb_old___" type="PLAIN_TEXT" />
       <mapping ext="wpy" type="Vue.js" />
