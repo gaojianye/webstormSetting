@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tpl" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -23,6 +24,7 @@
       <mask>*.ph</mask>
       <mask>*.php</mask>
       <mask>*.scss</mask>
+      <mask>*.tpl</mask>
     </recentFileMasks>
   </component>
 </application>
