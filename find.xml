@@ -19,8 +19,9 @@
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.ph</mask>
-      <mask>*.php</mask>
       <mask>*.scss</mask>
+      <mask>*.php</mask>
+      <mask>*.tpl</mask>
     </recentFileMasks>
   </component>
 </application>
