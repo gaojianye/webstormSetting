@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.inc.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -21,7 +22,8 @@
       <mask>*.ph</mask>
       <mask>*.scss</mask>
       <mask>*.php</mask>
-      <mask>*.tpl</mask>
+      <mask>*.tpl.php</mask>
+      <mask>*.inc.php</mask>
     </recentFileMasks>
   </component>
 </application>
